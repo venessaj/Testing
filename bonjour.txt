@@ -1,0 +1,4 @@
+bonjour
+bonsoir
+bonne nuit
+bon matin
